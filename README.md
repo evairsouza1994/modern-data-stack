@@ -16,3 +16,16 @@ Infraestrutura:
     
 Snowflake Data Warehousee:
 
+    OK - Criar Conta no SnowFlake
+    OK - Verificar a existência das tabelas
+    OK - Obter os links de conexãoo e nome da conta
+
+Extração:
+
+    OK - Conectar com as origens baseadas no Csvs X
+    OK - Criar as entidades noo snowflake através do script base da documentação
+    OK - Conectar o destino no snowflake
+    OK - Criar as conexões do airbyte associando as origens ao destino
+    OK - Testar as conexões
+
+Transformação:
