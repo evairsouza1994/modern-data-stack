@@ -29,3 +29,19 @@ Extração:
     OK - Testar as conexões
 
 Transformação:
+
+no DBT:
+
+    OK - Criação da conta
+    OK - Conexão com Github
+    OK - Criação de Dbt Project
+    OK - Criação de Profile de conexão com snowflake
+    OK - Criação do Schame
+    OK - Criação dos modelos Base
+    OK - Criação do modelo Relacionado
+    OK - Visualização Gravida do modelo
+    OK - Teste de execução
+    OK - Commits, Branches, Pull Requests, Merges no Github
+    OK - Obtenção do link de conexão com o Airbyte
+
+Visualização
